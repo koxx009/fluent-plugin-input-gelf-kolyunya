@@ -7,7 +7,7 @@ require 'yajl'
 require 'gelfd2'
 
 require 'fluent/input'
-require 'fluent/plugin/socket_util'
+require 'fluent/socket_util'
 
 module Fluent::Plugin
   class UdpHandler < SocketUtil::UdpHandler
