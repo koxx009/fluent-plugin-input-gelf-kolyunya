@@ -9,7 +9,7 @@ require 'gelfd2'
 require 'fluent/input'
 require 'fluent/socket_util'
 
-module Fluent::Plugin
+module Fluent
   class UdpHandler < SocketUtil::UdpHandler
       def initialize(io, log, body_size_limit, callback)
        super
