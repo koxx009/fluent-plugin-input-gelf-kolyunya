@@ -1,11 +1,16 @@
-# fluent-plugin-input-gelf
+# fluent-plugin-input-gelf-kolyunya
 
-[![Build Status](https://travis-ci.org/MerlinDMC/fluent-plugin-input-gelf.svg?branch=master)](https://travis-ci.org/MerlinDMC/fluent-plugin-input-gelf)
-[![Gem Version](https://badge.fury.io/rb/fluent-plugin-input-gelf.svg)](http://badge.fury.io/rb/fluent-plugin-input-gelf)
+[![Gem Version](https://badge.fury.io/rb/fluent-plugin-input-gelf-kolyunya.svg)](http://badge.fury.io/rb/fluent-plugin-input-gelf-kolyunya)
 
 ## Overview
 
-A GELF compatible input for [Fluentd](http://www.fluentd.org/).
+It's a fork from - https://github.com/itek09/fluent-plugin-input-gelf
+
+### Install
+
+```sh
+td-agent-gem install fluent-plugin-input-gelf-kolyunya
+```
 
 ### Configuration
 
