@@ -6,6 +6,14 @@
 
 It's a fork from - https://github.com/itek09/fluent-plugin-input-gelf
 
+It's fixing error:
+
+```
+gelf failed to emit error="time must be a Fluent::EventTime (or Integer): Float" error_class="ArgumentError"
+```
+
+Thanks for this fix - [@gcaracuel](https://github.com/gcaracuel)
+
 ### Install
 
 ```sh
