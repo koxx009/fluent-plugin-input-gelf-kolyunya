@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="WkECiSvDYsSqJN9lZB5zqbpYXY6Tx0qO-HJ9gVtvqhk" />
+
 # fluent-plugin-input-gelf-kolyunya
 
 [![Gem Version](https://badge.fury.io/rb/fluent-plugin-input-gelf-kolyunya.svg)](http://badge.fury.io/rb/fluent-plugin-input-gelf-kolyunya)
